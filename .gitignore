@@ -9,3 +9,5 @@ terraform.tfstate*
 vendor
 dist/
 coverage.txt
+passphrase.txt
+key.gpg
